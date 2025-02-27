@@ -1,0 +1,13 @@
+# Bỏ qua các file và thư mục hệ thống
+.DS_Store
+
+# Bỏ qua các file biên dịch
+*.pyc
+__pycache__/
+
+# Bỏ qua các thư mục ảo của môi trường Python
+venv/
+env/
+
+# Bỏ qua các file cấu hình IDE
+.vscode/
